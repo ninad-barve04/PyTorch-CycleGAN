@@ -105,5 +105,9 @@ datasets/
 output/A/
 output/B/
 
+# dataset folders
+dataset/
+
 # model checkpoints
 *.pth
+
